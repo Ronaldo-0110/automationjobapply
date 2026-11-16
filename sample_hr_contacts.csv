@@ -1,0 +1,4 @@
+name,email,company
+Priya Sharma,priya.hr@example.com,Acme Analytics
+,talent@example.org,DataWorks
+Bad Row,not-an-email,Nowhere

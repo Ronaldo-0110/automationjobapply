@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets and personal data
+.env
+sent_log.csv
+*.pdf
+
+# Your real contact lists (only the sample is published)
+*.csv
+!sample_hr_contacts.csv
